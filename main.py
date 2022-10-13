@@ -4,4 +4,4 @@ a = sum(map(f, filter(f, ls)))
 print(a)
 print("Hello")
 print("By")
-
+print (30)
